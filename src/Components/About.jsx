@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/123.jpeg";
+import image from "../images/pexels.jpg";
 
 const imageAltText = "this is the background image";
 
