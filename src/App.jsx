@@ -27,12 +27,12 @@ const siteProps = {
   name: "Arwa Mohsin",
   title: "Mechatronics Engineer",
   email: "arwa.mohsin@studentambassadors.com",
-  gitHub: "https://github.com/ArwaM0hsin/",
-  instagram: "instagram/arwa.mohsin",
-  linkedIn: "https://linkedin.com/in/arwa-mohsin-5b906822a",
+  gitHub: "ArwaM0hsin",
+  instagram: "arwa.mohsin",
+  linkedIn: "arwa-mohsin-5b906822a",
   medium: "",
-  twitter: "twitter.com/arwa.mohsin",
-  youTube: "youtube.com/arwa.mohsin",
+  twitter: "arwa.mohsin",
+  youTube: "arwa.mohsin",
 };
 
 const primaryColor = "#4E567E";
