@@ -29,7 +29,7 @@ const siteProps = {
   email: "arwa.mohsin@studentambassadors.com",
   gitHub: "https://github.com/ArwaM0hsin/",
   instagram: "instagram/arwa.mohsin",
-  linkedIn: "linkedin.com/arwa.mohsin",
+  linkedIn: "https://linkedin.com/in/arwa-mohsin-5b906822a",
   medium: "",
   twitter: "twitter.com/arwa.mohsin",
   youTube: "youtube.com/arwa.mohsin",
